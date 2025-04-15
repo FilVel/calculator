@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "unibo-dtm-se-calculator"
+name = "unibo-dtm-se-ay2425-calculator-velli"
 packages = [
     { include = "calculator" },
 ]
